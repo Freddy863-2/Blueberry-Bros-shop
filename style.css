@@ -10,3 +10,21 @@ img {
   border-radius: 25px;
   border: 2px solid black;
 }
+button {
+   text-align: center;
+   border-radius: 8px;
+   height: 100px;
+   width: 250px;
+   font-size: 25px;
+   font-family: roboto;
+   color: white;
+   background-color: rgb(60, 28, 112);
+   border-color: white;
+   border-width: 0.5px;
+   box-shadow: none;
+   outline: none;
+   border-style: solid;
+   cursor: pointer;
+   transition: 0.3s;
+   margin: 10px;
+}
